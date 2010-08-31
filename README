@@ -1,0 +1,10 @@
+Contexo Makefile generator 0.1
+
+1. Introduction
+No information so far.
+
+2. Usage
+Pipe a contex export to the makefile generator plugin, and it will generate a makefile.
+
+3. Options
+No options so far.
